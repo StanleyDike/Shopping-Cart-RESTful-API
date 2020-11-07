@@ -1,0 +1,1 @@
+# RESTful API that allows customers to Create, Read, Update, and Delete (CRUD) from their shopping cart. Used MongoDB to persist the data and implemented sessions to find the last (x) store items that the user has looked at. Tools used Node, Express, and MongoDB.
